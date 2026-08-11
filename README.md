@@ -681,5 +681,4 @@ The experiments demonstrate several practical characteristics of classical image
 # Authors
 
 Saghar Kheradmand  
-Samira Khandan  
-AmirHossein Jeddi
+
